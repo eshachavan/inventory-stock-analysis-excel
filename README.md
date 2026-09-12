@@ -8,7 +8,7 @@ The project analyzes current stock levels against reorder levels and categorizes
 
 ## Project Preview
 
-![Inventory Stock Analysis](./inventory-analysis.png)
+![Inventory Stock Analysis](./Preview.png)
 
 ## Objectives
 
